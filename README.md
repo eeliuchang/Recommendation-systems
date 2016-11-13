@@ -1,5 +1,5 @@
 # Recommendation-systems
-sied project when reading book <Collabrorative Filting>
+sied project when reading book Collabrorative Filting
 
 In this project, we build a recommendation system for different users. We use user-based collabrative filtering to rank the related goods for selected custermer.
 
